@@ -1,4 +1,4 @@
-# ERC-20 Token Smart Contract
+# ERC20_Token Smart Contract
 
 The Solidity smart contract for an ERC-20 token is a simple one. On the Ethereum network, the contract lets users design and control their own unique token. As is common for fungible tokens, the token complies with the ERC-20 standard.
 
