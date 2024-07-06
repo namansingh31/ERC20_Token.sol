@@ -11,7 +11,7 @@ contract ERC20_TOKEN is ERC20, ERC20Burnable, Ownable {
         ERC20("ERC20_TOKEN", "ERT")
         Ownable(initialOwner)
     {
-        _mint(msg.sender, 10000 * 10 ** decimals());
+        _mint(msg.sender, 1000 * 10 ** decimals());
     }
 
     function mint(address to, uint256 amount) public onlyOwner {
