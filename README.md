@@ -11,8 +11,8 @@ License,
 # Token Details
 The ERC-20 token has the following details:
 
-Name: ERC20_Maker
-logo: EMK
+Name: ERC20_TOKEN
+logo: ERT
 get_Decimals: 18
 overallSupply: 1,000,000 tokens (1000000 * 10^18 with 18 decimals)
 Token Functions
@@ -42,8 +42,8 @@ Call the transfering function to send tokens to another address.
 Make sure you have sufficient gas and appropriate permissions (e.g., contract ownership) to execute certain functions.
 
 # Author
-Mukesh Arya
-22bcs50149@gmail.com
+Naman Kumar
+namansingh8920@gmail.com
 # License
 This ERC-20 token smart contract is open-source and licensed under the MIT License. You can freely use, modify, and distribute it as per the terms of the MIT License.
 
